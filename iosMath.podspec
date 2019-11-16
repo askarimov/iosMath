@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "iosMath"
+  s.name         = "ICiosMath"
   s.version      = "0.9.5"
   s.summary      = "Math equation rendering for iOS and OS X"
   s.description  = <<-DESC
