@@ -1046,3 +1046,6 @@ static NSString* typeToText(MTMathAtomType type) {
     self.superScript = top;
     return self;
 }
+
+@end
+    
